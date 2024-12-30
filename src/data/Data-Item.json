@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://via.placeholder.com/300x200",
+        "title": "Card Title 1",
+        "category": "Category 1",
+        "description": "This is a description for card 1. It contains relevant details about the content.",
+        "link": "#",
+        "buttonText": "Learn More"
+    },
+    {
+        "image": "https://via.placeholder.com/300x200",
+        "title": "Card Title 2",
+        "category": "Category 2",
+        "description": "This is a description for card 2. It provides more information about what this card entails.",
+        "link": "#",
+        "buttonText": "Discover"
+    },
+    {
+        "image": "https://via.placeholder.com/300x200",
+        "title": "Card Title 3",
+        "category": "Category 3",
+        "description": "This is a description for card 3. It explains the purpose or content of the card in detail.",
+        "link": "#",
+        "buttonText": "Explore"
+    }
+]
