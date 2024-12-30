@@ -1,7 +1,8 @@
 import './App.css';
+import About from './components/About';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Hero from './components/Hero';
-import Item from './components/Item'
 import ItemList from './components/item-list';
 
 function App() {
@@ -9,8 +10,9 @@ function App() {
     <div className="App">
       <Header /> 
       <Hero />
-      <Item />
+      <About />
       <ItemList />
+      <Footer />
     </div>
   );
 }
